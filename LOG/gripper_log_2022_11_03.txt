@@ -1,0 +1,14 @@
+[2022-11-03 14:30:25] Logging to file 'src/../../LOG/gripper_log_2022_11_03.txt'
+[2022-11-03 14:30:25] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-11-03 14:30:25] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-11-03 14:30:25] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-11-03 14:30:25] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-11-03 14:30:25] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-11-03 14:30:25] Successfully turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-11-03 17:01:51] Logging to file 'src/../../LOG/gripper_log_2022_11_03.txt'
+[2022-11-03 17:01:51] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-11-03 17:01:51] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-11-03 17:01:51] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-11-03 17:01:51] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-11-03 17:01:51] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-11-03 17:01:52] Successfully turned on BRAKE for axis 3 in Control.BRAKE()

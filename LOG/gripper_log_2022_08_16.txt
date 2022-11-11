@@ -1,0 +1,31 @@
+[2022-08-16 16:56:53] Logging to file 'src/../../LOG/gripper_log_2022_08_16.txt'
+[2022-08-16 16:56:53] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 16:56:53] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 16:56:53] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 16:56:53] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 16:56:53] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 16:56:53] Successfully turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 16:56:58] Logging to file 'src/../../LOG/gripper_log_2022_08_16.txt'
+[2022-08-16 16:56:58] Turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 16:56:58] Successfully turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 16:56:58] Turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 16:56:58] Successfully turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 16:56:58] Turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 16:56:58] Successfully turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 16:57:03] Logging to file 'src/../../LOG/gripper_log_2022_08_16.txt'
+[2022-08-16 16:57:03] Brakes disengaged in Control.OFF()
+[2022-08-16 16:57:03] SVON turned off in Control.OFF()
+[2022-08-16 17:29:28] Logging to file 'src/../../LOG/gripper_log_2022_08_16.txt'
+[2022-08-16 17:29:29] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 17:29:29] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 17:29:29] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 17:29:29] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 17:29:29] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 17:29:29] Successfully turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 17:43:26] Logging to file 'src/../../LOG/gripper_log_2022_08_16.txt'
+[2022-08-16 17:43:26] Turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 17:43:26] Successfully turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-08-16 17:43:26] Turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 17:43:26] Successfully turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-08-16 17:43:26] Turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-08-16 17:43:26] Successfully turned off BRAKE for axis 3 in Control.BRAKE()

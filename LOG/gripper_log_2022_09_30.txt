@@ -1,0 +1,24 @@
+[2022-09-30 15:15:25] Logging to file 'src/../../LOG/gripper_log_2022_09_30.txt'
+[2022-09-30 15:15:25] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:15:25] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:15:25] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:15:26] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:15:26] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-09-30 15:15:26] Successfully turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-09-30 15:17:09] Logging to file 'src/../../LOG/gripper_log_2022_09_30.txt'
+[2022-09-30 15:17:12] Logging to file 'src/../../LOG/gripper_log_2022_09_30.txt'
+[2022-09-30 15:17:12] Turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:17:12] Turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:17:12] Turned on BRAKE for axis 3 in Control.BRAKE()
+[2022-09-30 15:17:12] Successfully turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:17:12] Successfully turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:17:12] Successfully turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-09-30 15:17:12] Brakes disengaged in Control.OFF()
+[2022-09-30 15:17:13] SVON turned off in Control.OFF()
+[2022-09-30 15:19:04] Logging to file 'src/../../LOG/gripper_log_2022_09_30.txt'
+[2022-09-30 15:19:04] Turned off BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:19:04] Successfully turned on BRAKE for axis 1 in Control.BRAKE()
+[2022-09-30 15:19:04] Turned off BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:19:04] Successfully turned on BRAKE for axis 2 in Control.BRAKE()
+[2022-09-30 15:19:05] Turned off BRAKE for axis 3 in Control.BRAKE()
+[2022-09-30 15:19:05] Successfully turned on BRAKE for axis 3 in Control.BRAKE()

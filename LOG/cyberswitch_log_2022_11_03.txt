@@ -1,0 +1,13 @@
+[2022-11-03 14:28:14] Logging to file 'src/../../LOG/cyberswitch_log_2022_11_03.txt'
+[2022-11-03 14:28:14] Connecting to TCP IP 192.168.2.52 via port 4001
+[2022-11-03 14:28:14] Closing TCP connection at IP 192.168.2.52 and port 4001
+[2022-11-03 14:28:18] Logging to file 'src/../../LOG/cyberswitch_log_2022_11_03.txt'
+[2022-11-03 14:28:18] Connecting to TCP IP 192.168.2.52 via port 4001
+[2022-11-03 14:28:19] Closing TCP connection at IP 192.168.2.52 and port 4001
+[2022-11-03 14:28:24] Logging to file 'src/../../LOG/cyberswitch_log_2022_11_03.txt'
+[2022-11-03 14:28:24] Connecting to TCP IP 192.168.2.52 via port 4001
+[2022-11-03 14:28:24] Closing TCP connection at IP 192.168.2.52 and port 4001
+[2022-11-03 14:28:38] Logging to file 'src/../../LOG/cyberswitch_log_2022_11_03.txt'
+[2022-11-03 14:28:38] Connecting to TCP IP 192.168.2.52 via port 4001
+[2022-11-03 14:28:38] Exiting...
+[2022-11-03 14:28:38] Closing TCP connection at IP 192.168.2.52 and port 4001
